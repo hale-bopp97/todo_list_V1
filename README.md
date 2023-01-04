@@ -28,5 +28,5 @@ hale-bopp97 https://github.com/hale-bopp97
 ## License
 This project is licensed under the MIT license.
 
-## Site working without styling
+### Site working without styling
 ![working site without styling](https://github.com/hale-bopp97/todo_list_V1/blob/main/assets/Capture.PNG?raw=true)
