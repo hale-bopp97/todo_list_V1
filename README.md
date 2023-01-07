@@ -6,6 +6,8 @@
 ## Description
 A Todo list created using ejs templates
 
+Application hosted on heroku at: https://to-dooooo.herokuapp.com/
+
 ## Table of contents
 *[Dependencies](#dependencies)  
 *[Execution](#installation)  
